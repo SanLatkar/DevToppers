@@ -1,11 +1,21 @@
 {
   "name": "myapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hello World",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanLatkar/Devtoppers.git"
+  },
+  "author": "SanLatkar",
   "license": "ISC"
+
+"bugs": {
+    "url": "https://github.com/SanLatkar/Devtoppers/issues"
+  },
+  "homepage": "https://github.com/SanLatkar/Devtoppers#readme"
 }
